@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int a=25253;
+printf("Input: %d\n",a);
+printf("Output: %d",a%100);
+return 0;
+}
